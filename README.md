@@ -2,7 +2,7 @@
 ## Introduction
 This consumer intelligence dataset provides critical insights into modern buying habits and expenditure patterns. Decoding customer priorities and behavioral shifts enables organizations to customize merchandise selections, refine promotional approaches, and elevate engagement strategies.
 
-**[The dataset - Provided By Techsakshm](Shopping_Trends_Updated.csv)** Documents comprehensive consumer metrics spanning demographic profiles, transaction chronicles, payment preferences, shopping cadence, and behavioral indicators.
+**[The dataset - Provided By Techsakshm](shopping_trends_updated.csv)** Documents comprehensive consumer metrics spanning demographic profiles, transaction chronicles, payment preferences, shopping cadence, and behavioral indicators.
 
 Interpreting these parameters allows companies to drive evidence-based operational improvements, streamline inventory curation, and predict emerging demand cycles. This information repository serves as an indispensable asset for enterprises adapting to evolving market demands while maintaining competitive resonance with buyer expectations.
 ____
